@@ -5,7 +5,7 @@
 # Development -> used for further development of the program
 
 # Executabe:
-Farm
+Farm.jar
 
 # Sample:
 ![image](https://user-images.githubusercontent.com/55886855/147973875-b2eb5bef-2602-4544-b840-1bc2a35b511e.png)
